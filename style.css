@@ -15,6 +15,7 @@ h1{
     font-size: 30px;
 }
 
+/* Main Box */
 .container{
     background-color: azure;
     width: 500px;
@@ -32,6 +33,7 @@ h1{
     border: 1.5px solid #011;
 }
 
+/* Individual Boxes */
 .one{
     background-color: #FF0000;
     width: 100px;
